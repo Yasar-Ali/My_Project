@@ -3,7 +3,7 @@
 #include <SoftwareSerial.h>
 #include <math.h>
 #include<Wire.h>
-const String EMERGENCY_PHONE = "+917610277367";
+const String EMERGENCY_PHONE = "+xx-xxxxxxxxxx";
 #define rxPin 2
 #define txPin 3
 SoftwareSerial sim900(rxPin,txPin);
